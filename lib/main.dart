@@ -2,6 +2,7 @@ import 'package:auto_updater/auto_updater.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
+  // asdinqweio dqeow
   // Must add this line to ensure all necessary Flutter bindings are initialized.
   WidgetsFlutterBinding.ensureInitialized();
 
