@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>updater_test</title>
+        <description>Most recent updates to updater_test</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.2.0</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/assem9/updater_test/releases/tag/v1.2.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 12 Aug 2024 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Assem9/updater_test/releases/download/v1.2.0/mysetup.exe"
+                sparkle:dsaSignature="MD4CHQCJO4D5FQiafyJPd5lUriNbVVAnMlo/TyMDan9oAh0AtWFo6LsAUzoKQp4u+iZkj34SCOWw1VZQQN6yQQ=="
+                sparkle:version="1.2.0"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

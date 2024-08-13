@@ -1,0 +1,6 @@
+#include "windows.h"
+#include "resource.h"
+
+// Add these lines if you modified the Runner.rc file for auto_updater
+// Ensure the path to the public key is correct
+DSAPub      DSAPEM      "../../dsa_pub.pem"
